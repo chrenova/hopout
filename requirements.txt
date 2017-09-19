@@ -1,0 +1,8 @@
+Flask
+Flask-SocketIO
+eventlet
+flask-script
+flask-sqlalchemy
+flask_bootstrap
+celery[redis]
+flask_httpauth
